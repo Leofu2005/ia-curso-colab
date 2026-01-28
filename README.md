@@ -1,4 +1,5 @@
 # 🌸 Clasificación de Flores Iris: Pipeline Básico de ML
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leofu2005/ia-curso-colab/blob/main/S1_PRÁCTICA_IA_en_10_líneas_LFU.ipynb)
 
 Este repositorio contiene una implementación práctica de un pipeline de Machine Learning "end-to-end" utilizando Scikit-Learn. El objetivo es resolver el clásico problema de clasificación del dataset Iris mediante un modelo de Regresión Logística (Baseline).
 
