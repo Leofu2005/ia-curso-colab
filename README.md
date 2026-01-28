@@ -48,8 +48,7 @@ El modelo base alcanzó un rendimiento excelente:
     ```
 
 ## 📈 Visualización
-
-El análisis gráfico demuestra que la longitud y el ancho del pétalo son variables discriminantes clave. Se observa claramente que la clase *Setosa* está bien separada, mientras que existe una pequeña "zona gris" o superposición entre las clases *Versicolor* y *Virginica*, lo que explica los ligeros errores del modelo.
+Dado que el modelo clasifica perfectamente la clase Setosa, el análisis gráfico se centra exclusivamente en las clases Versicolor y Virginica. El gráfico demuestra que, aunque la longitud y el ancho del pétalo permiten diferenciarlas en su mayoría, existe una zona de superposición entre ambas especies. Esta "zona gris" explica visualmente por qué el modelo comete errores puntuales al intentar distinguir entre estas dos clases específicas.
 
 ![Gráfico de dispersión de las clases de Iris](results_plot.png)
 
